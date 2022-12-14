@@ -1,0 +1,73 @@
+body{
+    background: black;
+    color: rgb(253, 253, 253);
+    background-image: url(img/vintage.jpg) 
+}
+
+.menu{
+    display: flex;
+}
+
+.imagem1{
+    height: 50%;
+    width: 30%;
+}
+
+p{
+    width: 700px;
+    margin-left: 90px;
+    box-align: 20%;
+}
+
+.imagen2{
+    height: 50%;
+    width: 30%;
+}
+
+.imagem3{
+    height: 50%;
+    width: 40%;
+}
+
+.imagem4{
+    height: 50%;
+    width: 30%;
+}
+
+.imagem5{
+    height: 50%;
+    width: 30%;
+}
+
+.imagem6{
+    height: 50%;
+    width: 34%;
+}
+
+.imagem7{
+    height: 50%;
+    width: 50%;
+}
+
+b{
+    height: 150%;
+    width: 50%;
+}
+
+h1{
+    background: rgb(27, 27, 27);
+    height: 90px;
+    color: rgb(160, 155, 155);
+}
+
+h2{
+    background: rgb(39, 39, 39);
+    color: grey;
+    width: 30%;
+}
+
+footer{
+    background: black;
+    color: white;
+    height: 50px;
+}
